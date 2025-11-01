@@ -1,0 +1,1 @@
+console.log('[ReadSmart] Options page loaded');
